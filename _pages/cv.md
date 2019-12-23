@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://ahuitfeldt.github.io/files/Anders_Huitfeldt_Curriculum_Vitae.jpg"" class="image fit"><img src="https://ahuitfeldt.github.io/files/Anders_Huitfeldt_Curriculum_Vitae.jpg" alt=""></a>	
+<a href="https://ahuitfeldt.github.io/images/Anders_Huitfeldt_Curriculum_Vitae.jpg"" class="image fit"><img src="https://ahuitfeldt.github.io/images/Anders_Huitfeldt_Curriculum_Vitae.jpg" alt=""></a>	
