@@ -9,9 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="https://ahuitfeldt.github.io/files/Anders_Huitfeldt_Curriculum_Vitae.jpg" type="application/pdf" width="700px" height="700px">
-    <embed src="https://ahuitfeldt.github.io/files/Anders_Huitfeldt_Curriculum_Vitae.jpg">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ahuitfeldt.github.io/files/Anders_Huitfeldt_Curriculum_Vitae.jpg">Download PDF</a>.</p>
-    </embed>
-</object>
-
+<a href="https://ahuitfeldt.github.io/files/Anders_Huitfeldt_Curriculum_Vitae.jpg"" class="image fit"><img src="https://ahuitfeldt.github.io/files/Anders_Huitfeldt_Curriculum_Vitae.jpg" alt=""></a>	
