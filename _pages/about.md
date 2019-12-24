@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-My primary research interest is to develop causal models for handling external validity and effect heterogeneity. I have proposed a framework based on a new class of effect parameters, the Counterfactual Outcome State Transition parameters. 
+My research is focused on determining when, whether and how scientific findings can be generalized to populations other than the one that was studied. In particular, I am interested in understanding the factors that predict whether a treatment will be effective in a given patient, and how those factors differ between populations. These considerations play a crucial role in determining how results from randomized trials can be applied in clinical practice, and therefore have high relevance to evidence-based medicine. 
 
-These parameters can be used to formalize arguments that have arisen multiple times in the statistical literature, beginning with Mindel C. Sheps landmark 1958 paper in the New England Journal of Medicine, "Shall we count the living or the dead?". Sheps' arguments have significant implications for external validity and for meta-analysis, and these implications have largely been overlooked in applied statistical practice. I hope that a formal counterfactual model can help facilitate a broader understanding of the scope and limitations of the intuition which Sheps' argument is built upon, so that the implications of this line of reasoning can become an integral part of how evidence is used to inform clinical practice
+Generalizability of randomized trials has become a ''hot topic" over the last five years, both due to philosophical criticism of the randomized trial as a study design, and also due to innovations in computer science and epidemiologic methodology. My research agenda pursues this topic from a different perspective, which I believe is closely related to how generalizability has traditionally been understood in the evidence-based medicine literature. 
+
+In our 2018 paper in Epidemiologic Methods, we proposed an original framework for reasoning about generalizability, ''Counterfactual outcome state transition (COST) parameters", and showed that these counterfactual models that can be used to formalize earlier intuition, and to reach conclusions about external validity and choice of effect measure that correspond well with the recommendations in the Cochrane Handbook. 
+
+The primary focus of my methodological work over the next few years will be to continue developing my research program on external validity. The COST parameters framework leads to certain empirical predictions about observable effect homogeneity, which can be tested in a ``meta-analysis of meta-analyses''. Before such an empirical analysis can be conducted, it may be necessary to construct new measures of meta-analytic effect heterogeneity (alternatives to Cochran's *Q* and *I2*), which I hope to be able to develop. I also intend to explore whether the COST parameters framework can be generalized to time-to-event analysis.
 
 
 ---
+
 From January 2020, I am a Lecturer in Epidemiology at the Royal College of Surgeons in Ireland (on a 6-month maternity cover contract). I qualified in medicine at RCSI in 2008, and later obtained a doctoral degree in Epidemiology at the Harvard T.H. Chan School of Public Health, where I worked with the HSPH Program on Causal Inference. 
 
 ---

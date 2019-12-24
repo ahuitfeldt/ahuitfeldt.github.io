@@ -15,4 +15,4 @@ redirect_from:
     </embed>
 </object>
 
-<a href="https://ahuitfeldt.github.io/images/Anders_Huitfeldt_Curriculum_Vitae.pdf" class="image fit"><img src="https://ahuitfeldt.github.io/images/Anders_Huitfeldt_Curriculum_Vitae.pdf" alt=""></a>	
+	
