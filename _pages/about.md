@@ -16,7 +16,7 @@ Generalizability of randomized trials has become a ''hot topic" over the last fi
 
 ---
 
-From January 2020, I am a Lecturer in Epidemiology at the Royal College of Surgeons in Ireland (on a 6-month maternity cover contract). I qualified in medicine at RCSI in 2008, and later obtained a doctoral degree in Epidemiology at the Harvard T.H. Chan School of Public Health, where I worked with the HSPH Program on Causal Inference. 
+Since August 2020, I have been an Associate Professor in Evidence-Based Medicine at the University of Southern Denmark. I qualified in medicine at the Royal College of Surgeons in Ireland in 2008, and later obtained a doctoral degree in Epidemiology at the Harvard T.H. Chan School of Public Health, where I worked with the HSPH Program on Causal Inference. 
 
 ---
 
