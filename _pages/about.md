@@ -12,11 +12,9 @@ My research is focused on determining whether and how scientific findings can be
 
 Generalizability of randomized trials has become a ''hot topic" over the last five years, both due to philosophical criticism of the randomized trial as a study design, and also due to innovations in computer science and epidemiologic methodology. My research agenda pursues this topic from a different perspective. With my coauthors, I have proposed a new framework for reasoning about generalizability based on counterfactual models that formalize certain intuitive arguments that have arisen independently multiple times in the earlier literature. For more information, see the "publications" section of this website. 
 
-
-
 ---
 
-Since March 2022, I have been an Researcher in Biostatistics at École polytechnique fédérale de Lausanne (EPFL). I qualified in medicine at the Royal College of Surgeons in Ireland in 2008, and later obtained a doctoral degree in Epidemiology at the Harvard T.H. Chan School of Public Health, where I worked with the HSPH Program on Causal Inference. 
+Since September 2023, I have been resident in addiction medicine at Oslo University Hospital, and am no longer planning a career in academia. I am occassionally contacted by academics who ask me to reconsider this choice. Please do not contact me with such requests unless you are able to offer both job security and unrestricted freedom to set my own research agenda.  
 
 ---
 
